@@ -12,7 +12,7 @@
 
 ## ⚙️ Setup & Usage
 
-     ```bash
+  ```bash
    git clone https://github.com/arewhstar/spring-random-ppl.git
    cd spring-random-ppl
    make run-all
@@ -26,15 +26,15 @@
 
 ## ⚙️ Endpoints
 
-    ```bash
+  ```bash
     http://localhost:8080/person/{firstname}
     http://localhost:8081/person/{firstname}
 
     http://localhost:8080/people
     http://localhost:8080/history
-    ```
+   ```
 
 ## 🛑 Stop
-    ```bash
+  ```bash
     make stop-all
-    ```
+  ```
