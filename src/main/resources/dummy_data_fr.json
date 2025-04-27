@@ -1,0 +1,36 @@
+{
+  "results": [
+    {
+      "name": {
+        "first": "Pierre",
+        "last": "Dupont"
+      },
+      "email": "pierre.dupont@example.fr",
+      "nat": "FR"
+    },
+    {
+      "name": {
+        "first": "Camille",
+        "last": "Moreau"
+      },
+      "email": "camille.moreau@example.fr",
+      "nat": "FR"
+    },
+    {
+      "name": {
+        "first": "Luc",
+        "last": "Bernard"
+      },
+      "email": "luc.bernard@example.fr",
+      "nat": "FR"
+    },
+    {
+      "name": {
+        "first": "Emma",
+        "last": "Dubois"
+      },
+      "email": "emma.dubois@example.fr",
+      "nat": "FR"
+    }
+  ]
+}
